@@ -2,7 +2,7 @@
 
 // 1 Вариант решения
 
-Console.Write("Введителюбое целое число: ");
+Console.Write("Введите любое целое число: ");
 int number = int.Parse(Console.ReadLine());
 int count = 0;
 int quantity = number;
